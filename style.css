@@ -125,11 +125,11 @@ ul {
 }
 
 /* Edit Task */
-.editMode .input--text{
+.edit-mode .input--text {
   display: inline-block;
   width: 224px;
 }
 
-.editMode .task {
+.edit-mode .task {
   display: none;
 }
